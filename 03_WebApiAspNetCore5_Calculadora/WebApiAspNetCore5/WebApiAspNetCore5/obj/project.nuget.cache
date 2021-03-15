@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6vapAM28YlmbIku9qCbgvc5IwevNGOLSHjun1rN3z6H8buXGS1vMH5hJvc71jlV05N9r+cfG3uklNoErcwY7cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edson\\source\\repos\\WebApiAspNetCore5\\WebApiAspNetCore5\\03_WebApiAspNetCore5_Calculadora\\WebApiAspNetCore5\\WebApiAspNetCore5\\WebApiAspNetCore5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edson\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\edson\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\edson\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\edson\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\edson\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\edson\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
